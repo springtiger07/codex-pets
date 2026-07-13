@@ -15,6 +15,10 @@ The following material is licensed under the [MIT License](LICENSES/MIT.txt):
 - `Miyu/pet.json`
 - `Miyu/SHA256SUMS`
 - `Miyu/qa/`
+- `Rina/README.md`
+- `Rina/pet.json`
+- `Rina/SHA256SUMS`
+- `Rina/qa/`
 - Any future source code or scripts, unless a file states otherwise
 
 ## Creative Commons Attribution 4.0
@@ -27,11 +31,16 @@ The following visual assets are licensed under [Creative Commons Attribution 4.0
 - `Miyu/spritesheet.webp`
 - `Miyu/previews/`
 - `Miyu/screenshots/`
+- `Rina/spritesheet.webp`
+- `Rina/previews/`
+- `Rina/screenshots/`
 
 Suggested attribution:
 
 > Hina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 > Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
+> Rina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 If you adapt the visual assets, indicate that changes were made. Neither license grants trademark rights or implies endorsement by the author or OpenAI. Third-party material, if added later, remains subject to its own stated terms.
