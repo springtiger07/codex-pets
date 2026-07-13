@@ -11,6 +11,10 @@ The following material is licensed under the [MIT License](LICENSES/MIT.txt):
 - `Hina/pet.json`
 - `Hina/SHA256SUMS`
 - `Hina/qa/`
+- `Lumi/README.md`
+- `Lumi/pet.json`
+- `Lumi/SHA256SUMS`
+- `Lumi/qa/`
 - `Miyu/README.md`
 - `Miyu/pet.json`
 - `Miyu/SHA256SUMS`
@@ -28,6 +32,9 @@ The following visual assets are licensed under [Creative Commons Attribution 4.0
 - `Hina/spritesheet.webp`
 - `Hina/previews/`
 - `Hina/screenshots/`
+- `Lumi/spritesheet.webp`
+- `Lumi/previews/`
+- `Lumi/screenshots/`
 - `Miyu/spritesheet.webp`
 - `Miyu/previews/`
 - `Miyu/screenshots/`
@@ -38,6 +45,8 @@ The following visual assets are licensed under [Creative Commons Attribution 4.0
 Suggested attribution:
 
 > Hina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
+> Lumi Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 > Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 

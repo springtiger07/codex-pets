@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "All nine animation loops preserve Lumi's identity and props, the repaired jump follows a stable vertical arc, and the sixteen-direction loop remains usable, unclipped, and semantically clockwise.",
+  "repairRows": [],
+  "reviewWarnings": [
+    "Several near-cardinal intermediate gaze cues are subtle in isolation but remain readable in the labeled ordered loop.",
+    "The 337.5-to-000 area increase is profile-to-frontal silhouette widening rather than a visible scale or identity pop."
+  ]
+}

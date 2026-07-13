@@ -10,6 +10,8 @@ Suggested attribution:
 
 > Hina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
+> Lumi Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
 > Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 > Rina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.

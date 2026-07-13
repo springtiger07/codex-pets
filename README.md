@@ -9,6 +9,7 @@ Each pet folder contains the two files required for installation—`pet.json` an
 | Pet | Description | Preview |
 | --- | --- | --- |
 | [Hina](Hina/) | Miyu's slightly aloof sister with a golden-blonde ponytail and a teal-and-cream sailor outfit. | <img src="Hina/screenshots/hina-idle.png" alt="Hina" width="96"> |
+| [Lumi](Lumi/) | A bright mint-haired fairy magical girl with jewel-like wings and a golden star wand. | <img src="Lumi/screenshots/lumi-idle.png" alt="Lumi" width="96"> |
 | [Miyu](Miyu/) | A cheerful, pink twin-tailed chibi manga girl with nine standard animations and sixteen look directions. | <img src="Miyu/screenshots/miyu-idle.png" alt="Miyu" width="96"> |
 | [Rina](Rina/) | Miyu and Hina's shy sister with a short chestnut-brown bob and a lavender-and-ivory sailor outfit. | <img src="Rina/screenshots/rina-idle.png" alt="Rina" width="96"> |
 
@@ -24,6 +25,8 @@ codex-pets/
 │   ├── previews/
 │   ├── qa/
 │   └── screenshots/
+├── Lumi/
+│   └── ...
 ├── Miyu/
 │   └── ...
 └── Rina/
@@ -34,7 +37,7 @@ Open a pet folder for installation instructions and full previews.
 
 ## 한국어 안내
 
-Codex 데스크톱 앱에서 사용할 수 있는 커스텀 애니메이션 펫 모음입니다. 현재 자매 캐릭터 미유, 히나, 리나를 제공하며, 각 펫 폴더에는 설치 파일, 동작 GIF, 전체 스프라이트 시트 미리보기와 공개용 검증 결과가 포함되어 있습니다.
+Codex 데스크톱 앱에서 사용할 수 있는 커스텀 애니메이션 펫 모음입니다. 현재 미유, 히나, 리나와 요정 마법소녀 루미를 제공하며, 각 펫 폴더에는 설치 파일, 동작 GIF, 전체 스프라이트 시트 미리보기와 공개용 검증 결과가 포함되어 있습니다.
 
 ## License
 
