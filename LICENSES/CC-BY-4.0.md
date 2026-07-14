@@ -14,7 +14,11 @@ Suggested attribution:
 
 > Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
+> Nami Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
 > Rina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
+> Yura Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 - License deed: https://creativecommons.org/licenses/by/4.0/
 - Legal code: https://creativecommons.org/licenses/by/4.0/legalcode

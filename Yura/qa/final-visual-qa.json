@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "All nine standard GIFs preserve Yura's identity and show correct, distinct cadence with visible jump lift, opposed left and right gaits, stable transparency, and no clipped pose.",
+  "directionSemantics": "pass",
+  "directionNote": "All sixteen labeled and blind-validated look directions form the expected clockwise loop with stable scale and baseline, an attached braid, and no visible snap at metric-warning transitions.",
+  "repairRows": [],
+  "reviewWarnings": [
+    "Continuity metrics flagged local silhouette or center-shift outliers at 090 to 112.5, 247.5 to 270, and 337.5 to 000; normal-size ordered-loop review found no reversal, clipping, scale pop, identity break, or braid detachment.",
+    "Stable-slot extraction warnings were accepted after all nine animation previews confirmed stable and unclipped motion."
+  ]
+}
