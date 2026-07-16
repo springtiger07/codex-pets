@@ -16,6 +16,8 @@ Suggested attribution:
 
 > Nami Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
+> Neti Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
 > Rina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 > Yura Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
