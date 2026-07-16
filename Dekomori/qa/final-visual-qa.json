@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "All nine standard animations and sixteen look directions preserve one unclipped, scale-stable Dekomori identity with correct actions, facing, cadence, transparency, and attached twin tails.",
+  "directionSemantics": "pass-with-reviewed-warnings",
+  "directionNote": "Both cardinal pairs and every horizontal intermediate passed blind review. The subtle 067.5-degree and 292.5-degree vertical cues remain in the correct labeled quadrants without reversal.",
+  "repairRows": [],
+  "reviewWarnings": [
+    "The 067.5-degree and 292.5-degree vertical cues are subtle, but their labeled clockwise progression remains in the intended up-right and up-left quadrants.",
+    "Frontal-to-profile continuity outliers are natural occlusion and head-pitch changes with stable head diameter, torso, skirt, legs, boots, baseline, identity, and twin-tail attachment.",
+    "The reported 000 alpha-hole row is natural negative space between attached hair and body, not a broken sprite."
+  ]
+}
